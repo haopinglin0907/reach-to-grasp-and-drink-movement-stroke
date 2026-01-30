@@ -1,0 +1,4 @@
+*.mp4
+*_results.pkl
+*_results.pkl >> .gitignore_landmarks_only.pkl
+.ipynb_checkpoints/
