@@ -8,7 +8,7 @@ Below is a side-by-side comparison of the 3D landmark extraction using SAM3D. Th
 
 | Front View | Side View |
 | :---: | :---: |
-| ![Demo Front](Demo Front.gif) | ![Demo Side](Demo Side.gif) |
+| ![Demo Front](Demo_Front.gif) | ![Demo Side](Demo_Side.gif) |
 | *Monitoring Shoulder Abduction* | *Monitoring Trunk Flexion* |
 
 ## 🛠️ Project Overview
